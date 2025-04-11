@@ -1,0 +1,21 @@
+The dataset "FinsScholl2456" containing 2456 images of great white sharks and their IDs was used in the IJCV2017 paper:
+B Hughes, T Burghardt. "Automated Visual Fin Identification of Individual Great White Sharks."
+
+The dataset was given to the authors by:
+Michael C. Scholl
+Save Our Seas Foundation CEO
+
+Mailing and Office address: 
+Rue Philippe Plantamour 20, CH-1201
+GenÀve, Switzerland
+
+Registered address: 
+Rue Fran¡ois-Bellot 6, 
+CH-1206 GenÀve,
+Switzerland
+
+Michael@SaveOurSeas.com
+
+The University of Bristol holds a copy of the dataset for project documentation purposes only and cannot release the dataset without the copyright holder's explicit permission.
+
+Please contact Michael Scholl directly if you seek to acquire a copy of the dataset.

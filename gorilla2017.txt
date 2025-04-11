@@ -1,0 +1,22 @@
+The dataset "Gorilla2017" containing about 12k images of gorillas and their IDs was used in the ICCVW2017 paper:
+CA Brust, T Burghardt, M Groenenberg, C Kaeding, HS Kuehl, M Manguette, J Denzler. 
+"Towards Automated Visual Monitoring of Individual Gorillas in the Wild." 
+Visual Wildlife Monitoring (VWM) Workshop at IEEE International Conference of Computer Vision (ICCVW), 
+pp. 2820-2830, October 2017. 
+
+The dataset used has a copyright associated to it held by:
+Wildlife Conservation Society (WCS) 
+Programme Congo
+Nouabalé-Ndoki National Park
+Congo-Brazzaville
+
+The New York HQ of WCS is located at:
+2300 Southern Boulevard
+Bronx, New York 10460
+
+Contact Information is available on the WCS website:
+https://www.wcs.org/about-us/offices
+
+The University of Bristol does currently not hold any copy or copyright of the data. 
+The University of Jena only handled data at their institution for project implementation.
+Please contact WCS directly if you seek to acquire a copy of the dataset.

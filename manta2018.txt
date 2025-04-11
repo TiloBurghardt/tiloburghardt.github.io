@@ -1,0 +1,14 @@
+The dataset "Manta2018" contains 990 class-labeled ventral Manta alfredi digital images with ROI annotations. Images are covering 99 individuals with exactly 10 images per individual. The dataset was used in the CIARP2018 paper:
+T Celik, B Hughes, T Burghardt. "Towards End-to-End DNN-based Identification of Individual Manta Rays from Sparse Imagery" published at the 23rd Iberoamerican Congress on Pattern Recognition (CIARP), November 2018.
+
+The dataset has been provided by:
+The Manta Trust
+Catemwood House
+Corscombe Dorchester
+Dorset DT2 0NT
+United Kingdom. 
+
+The Manta Trust holds copyrights of all data. 
+The University of Bristol holds a copy of the dataset for project documentation purposes only and cannot release the dataset without the copyright holder's explicit permission.
+
+Please contact The Manta Trust directly to obtain the dataset.
