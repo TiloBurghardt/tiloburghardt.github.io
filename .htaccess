@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^(?:www\.)?tiloburghardt\.com$ [NC]
+RewriteRule ^(.*)$ https://tilo.earth [L,R=301]
